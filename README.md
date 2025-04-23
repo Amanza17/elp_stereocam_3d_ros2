@@ -1,6 +1,6 @@
 # elp_stereo_camera with point cloud for ros2
 
-ROS2 camera driver for the ELP stereo camera, tested with ROS Jazzy and the ELP-USB3D1080P120-H120 model. Original drivers from @HeikoE
+ROS2 camera driver for the ELP stereo camera, tested with ROS Jazzy and the ELP-USB3D1080P120-H120 model. Original drivers from @heikoe
 
 Added a file to create a point cloud. 
 

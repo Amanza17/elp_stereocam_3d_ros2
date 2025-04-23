@@ -24,4 +24,4 @@ ros2 run camera_calibration cameracalibrator --size 10x7 --square 0.025 right:=/
 ### Stereo Image Processing (rectification, disparity image and point cloud):
 ```bash
 ros2 launch stereo_image_proc stereo_image_proc.launch.py namespace:=stereo
-```
+```# elp_stereocam_3d_rps2
